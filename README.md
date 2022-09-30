@@ -10,3 +10,7 @@ I believe ths is will be the final workshop.
 
 Participate in Hacktoberfest
 
+
+## Local Development
+
+1. Open index.html in your browser.
